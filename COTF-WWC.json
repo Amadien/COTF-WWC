@@ -1,6 +1,6 @@
 {
 	"Name": "CoTF Export",
-	"Version": 1771550736,
+	"Version": 1771837386,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -277,16 +277,7 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
-			"KillerComboPerkBans": [
-				[
-					"159",
-					"226"
-				],
-				[
-					"170",
-					"220"
-				]
-			],
+			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"1",
 				"300",
