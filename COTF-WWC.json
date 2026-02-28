@@ -1,6 +1,6 @@
 {
 	"Name": "",
-	"Version": 1771886743,
+	"Version": 1772223421,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -10,6 +10,8 @@
 				"0",
 				"3",
 				"285",
+				"5",
+				"6",
 				"52",
 				"7",
 				"13",
@@ -40,6 +42,7 @@
 				"46",
 				"49",
 				"262",
+				"55",
 				"56",
 				"274",
 				"252",
@@ -387,7 +390,12 @@
 				"235",
 				"297"
 			],
-			"KillerComboPerkBans": [],
+			"KillerComboPerkBans": [
+				[
+					"160",
+					"210"
+				]
+			],
 			"SurvivorIndvPerkBans": [
 				"38",
 				"71",
@@ -470,7 +478,12 @@
 				"235",
 				"297"
 			],
-			"KillerComboPerkBans": [],
+			"KillerComboPerkBans": [
+				[
+					"160",
+					"210"
+				]
+			],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -494,7 +507,8 @@
 			"ItemWhitelist": [
 				0,
 				9,
-				15
+				15,
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -790,11 +804,11 @@
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
-			"AddonTiersBanned": [
-				4
-			],
+			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				155
+				155,
+				154,
+				158
 			],
 			"ItemWhitelist": [
 				0,
@@ -901,7 +915,8 @@
 				174
 			],
 			"ItemWhitelist": [
-				5
+				5,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1007,9 +1022,12 @@
 			"IndividualAddonBans": [
 				189,
 				195,
-				196
+				196,
+				194
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
@@ -1206,39 +1224,28 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"1",
-				"300",
-				"8",
 				"258",
-				"11",
 				"21",
-				"27",
+				"246",
 				"34",
 				"36",
-				"37",
 				"38",
 				"39",
 				"44",
-				"57",
+				"294",
+				"58",
 				"289",
-				"61",
-				"65",
+				"63",
+				"67",
 				"69",
-				"70",
 				"295",
 				"76",
+				"78",
 				"80",
 				"83",
-				"85",
 				"96",
-				"92",
-				"109",
-				"110",
-				"111",
-				"112",
 				"121",
-				"124",
-				"127"
+				"124"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1251,7 +1258,8 @@
 			],
 			"IndividualAddonBans": [],
 			"ItemWhitelist": [
-				5
+				5,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1523,8 +1531,12 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				5
+			],
+			"KillerOfferings": [
+				8
+			]
 		},
 		{
 			"Name": "The Demogorgon",
@@ -1937,7 +1949,12 @@
 				"235",
 				"297"
 			],
-			"KillerComboPerkBans": [],
+			"KillerComboPerkBans": [
+				[
+					"160",
+					"210"
+				]
+			],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2282,6 +2299,7 @@
 				"38",
 				"39",
 				"44",
+				"54",
 				"57",
 				"289",
 				"61",
@@ -2386,6 +2404,7 @@
 				"289",
 				"61",
 				"65",
+				"67",
 				"69",
 				"70",
 				"295",
@@ -2442,12 +2461,10 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
 				5
 			],
 			"KillerOfferings": [
-				5
+				8
 			]
 		},
 		{
@@ -2545,12 +2562,10 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2,
 				5
 			],
 			"KillerOfferings": [
-				5
+				8
 			]
 		},
 		{
@@ -2756,7 +2771,7 @@
 		{
 			"Name": "The Singularity",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
@@ -3111,7 +3126,9 @@
 				0
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"136"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"258",
@@ -3212,6 +3229,7 @@
 				"54",
 				"57",
 				"289",
+				"61",
 				"69",
 				"70",
 				"295",
@@ -3413,6 +3431,7 @@
 				"92",
 				"109",
 				"110",
+				"112",
 				"121",
 				"124",
 				"127"
